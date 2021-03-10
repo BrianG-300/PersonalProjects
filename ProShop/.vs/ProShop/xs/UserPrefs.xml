@@ -1,0 +1,47 @@
+﻿<Properties HasIOSDesignerOverlayBeenDismissed="True" StartupConfiguration="{82C25149-46D9-433C-BCD3-8EA651423476}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProShop.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.25E17596-2134-429C-841A-B84974768979" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProShop/Views/NewItemPage.xaml">
+    <Files>
+      <File FileName="ProShop/Views/NewItemPage.xaml" Line="142" Column="113" />
+      <File FileName="ProShop/Models/Item.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProShop" expanded="True" selected="True">
+            <Node name="ProShop" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="AboutPage.xaml" expanded="True" />
+                <Node name="EditDetailPage.xaml" expanded="True" />
+                <Node name="MenuPage.xaml" expanded="True" />
+                <Node name="NewItemPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="ProShop.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ProShop.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ProShop.Android AndroidDesignerPreferredTheme="MainTheme" AndroidDesignerPreferredDevice="Nexus 4" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/novarumdx/Desktop/ProShop/ProShop/Services/PlayerDatabase.cs" relfile="ProShop/Services/PlayerDatabase.cs" line="33" column="1" />
+      <Breakpoint file="/Users/novarumdx/Desktop/ProShop/ProShop/Views/NewItemPage.xaml.cs" relfile="ProShop/Views/NewItemPage.xaml.cs" line="28" column="1" />
+      <Breakpoint file="/Users/novarumdx/Desktop/ProShop/ProShop/Services/PlayerDatabase.cs" relfile="ProShop/Services/PlayerDatabase.cs" line="39" column="1" />
+      <Breakpoint file="/Users/novarumdx/Desktop/ProShop/ProShop/Services/PlayerDatabase.cs" relfile="ProShop/Services/PlayerDatabase.cs" line="35" column="1" />
+      <Breakpoint file="/Users/novarumdx/Desktop/ProShop/ProShop/Views/EditDetailPage.xaml.cs" relfile="ProShop/Views/EditDetailPage.xaml.cs" line="34" column="1" />
+      <Breakpoint file="/Users/novarumdx/Desktop/ProShop/ProShop/Views/ItemsPage.xaml.cs" relfile="ProShop/Views/ItemsPage.xaml.cs" line="82" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProShop.Views.AboutPage" xmlns:vm="clr-namespace:ProShop.ViewModels" Title="{Binding Title}"
+             Style="{StaticResource PageStyle}">
+    <ContentPage.BindingContext>
+        <vm:AboutViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="1.5*"/>
+                <RowDefinition Height="0.5*"/>
+                <RowDefinition Height="5"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="5"/>
+            </Grid.ColumnDefinitions>
+
+            <Image x:Name="LogoBehindList" Style="{StaticResource ProshopLogo}" Aspect="AspectFill"
+                   Grid.Row="1" Grid.Column="1"/>
+
+            <StackLayout Grid.Row="2" Grid.Column="1" Padding="0,10,0,0">
+                <Label Text="Created by Brian Gillespie, this app is written in C# utilizing the Xamarin platform." TextColor="Black"
+                    HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+            </StackLayout>
+            <StackLayout Grid.Row="3" Grid.Column="1" VerticalOptions="EndAndExpand">
+                <BoxView BackgroundColor="#2196F3" HeightRequest="1.5"/>
+                <Label x:Name="VersionLabel" FontSize="Small" HorizontalOptions="Center" />
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
