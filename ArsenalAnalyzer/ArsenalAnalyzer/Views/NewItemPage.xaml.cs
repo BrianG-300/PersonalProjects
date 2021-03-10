@@ -22,13 +22,37 @@ namespace ArsenalAnalyzer.Views
 
         async void Save_Clicked(object sender, EventArgs e)
         {
-            MessagingCenter.Send(this, "AddItem", Item);
-            await Navigation.PopModalAsync();
+            if (checkData())
+            {
+                MessagingCenter.Send(this, "AddItem", Item);
+                await Navigation.PopModalAsync();
+            }
+            else
+            {
+                await Application.Current.MainPage.DisplayAlert("Missing data", "Some essential data is missing!", "OK");
+            }
+        }
+
+        private bool checkData()
+        {
+            if (Item != null)
+            {
+                if (Item.BallBrand != null || Item.BallModel != null )
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         async void Cancel_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PopModalAsync();
+            bool responce = await Application.Current.MainPage.DisplayAlert("Exit", "Are you sure you want to leave, any entered data will be lost.", "Yes", "No");
+
+            if (responce)
+            {
+                await Navigation.PopModalAsync();
+            }
         }
 
         void CoverPicker_SelectedIndexChanged(System.Object sender, System.EventArgs e)
@@ -117,13 +141,17 @@ namespace ArsenalAnalyzer.Views
         {
             if (MediaPicker.IsCaptureSupported)
             {
-                var res = await MediaPicker.CapturePhotoAsync(new MediaPickerOptions());
-
-                if (res != null)
+                var PermStatus = await Permissions.CheckStatusAsync<Permissions.Camera>();
+                if (PermStatus == PermissionStatus.Granted)
                 {
-                    var stream = await res.OpenReadAsync();
-                    Item.Image1 = res.FullPath;
-                    Image1.Source = ImageSource.FromStream(() => stream);
+                    var res = await MediaPicker.CapturePhotoAsync(new MediaPickerOptions());
+
+                    if (res != null)
+                    {
+                        var stream = await res.OpenReadAsync();
+                        Item.Image1 = res.FullPath;
+                        Image1.Source = ImageSource.FromStream(() => stream);
+                    }
                 }
             }
         }
@@ -132,13 +160,17 @@ namespace ArsenalAnalyzer.Views
         {
             if (MediaPicker.IsCaptureSupported)
             {
-                var res = await MediaPicker.CapturePhotoAsync(new MediaPickerOptions());
-
-                if (res != null)
+                var PermStatus = await Permissions.CheckStatusAsync<Permissions.Camera>();
+                if (PermStatus == PermissionStatus.Granted)
                 {
-                    var stream = await res.OpenReadAsync();
-                    Item.Image2 = res.FullPath;
-                    Image2.Source = ImageSource.FromStream(() => stream);
+                    var res = await MediaPicker.CapturePhotoAsync(new MediaPickerOptions());
+
+                    if (res != null)
+                    {
+                        var stream = await res.OpenReadAsync();
+                        Item.Image2 = res.FullPath;
+                        Image2.Source = ImageSource.FromStream(() => stream);
+                    }
                 }
             }
         }

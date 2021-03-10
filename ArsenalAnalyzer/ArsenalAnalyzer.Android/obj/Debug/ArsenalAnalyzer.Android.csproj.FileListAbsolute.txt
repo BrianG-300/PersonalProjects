@@ -1229,3 +1229,4 @@
 /Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/res/drawable/arsenalsplash.png

@@ -248,7 +248,7 @@
                         <RowDefinition Height="0.5*"/>
                     </Grid.RowDefinitions>
 
-                    <Image x:Name="Image1" BackgroundColor="Silver" HeightRequest="180" WidthRequest="60"
+                    <Image x:Name="Image1" BackgroundColor="Silver" HeightRequest="180" WidthRequest="60" Rotation="90"
                            Source="{local:ImageResource ArsenalAnalyzer.Resources.Add.png}">
                         <Image.GestureRecognizers>
                             <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_Image1"
