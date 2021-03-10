@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArsenalAnalyzer.Views.ItemDetailPage"
+             Title="{Binding Title}"
+             Style="{StaticResource PageStyle}"
+             xmlns:inputLayout="clr-namespace:Syncfusion.XForms.TextInputLayout;assembly=Syncfusion.Core.XForms">
+
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid Padding="20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="1.5*"/>
+                    <RowDefinition Height="200"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackLayout
+                    Grid.ColumnSpan="2">
+                    <inputLayout:SfTextInputLayout
+                        x:Name="BallBrandLayout"
+                        Hint="Ball Brand"
+                        FocusedColor="#2196F3" FocusedStrokeWidth="2"
+                        ContainerType="Outlined"
+                        UnfocusedColor="Black"
+                        OutlineCornerRadius="5">
+                        <Entry Text="{Binding Item.BallBrand}" FontSize="Medium" IsReadOnly="True"/>
+                        <!--<Picker FontSize="Medium" SelectedIndexChanged="BrandPicker_SelectedIndexChanged">
+                            <Picker.ItemsSource>
+                                <x:Array Type="{x:Type x:String}">
+                                    <x:String>Storm</x:String>
+                                    <x:String>Roto Grip</x:String>
+                                    <x:String>900 Global</x:String>
+                                    <x:String>Track</x:String>
+                                    <x:String>Columbia 300</x:String>
+                                    <x:String>Ebonite</x:String>
+                                    <x:String>Hammer</x:String>
+                                    <x:String>DV8</x:String>
+                                    <x:String>Brunswick</x:String>
+                                    <x:String>Radical</x:String>
+                                    <x:String>Motiv</x:String>
+                                    <x:String>Big Bowling</x:String>
+                                    <x:String>Other</x:String>
+                                </x:Array>
+                            </Picker.ItemsSource>
+                        </Picker>-->
+                    </inputLayout:SfTextInputLayout>
+
+                    <!--<inputLayout:SfTextInputLayout
+                        x:Name="OtherBrandEntryLayout"
+                        IsVisible="False"
+                        Margin="15,0,0,0"
+                        HelperText="Enter Ball Brand"
+                        FocusedColor="#2196F3" FocusedStrokeWidth="2"
+                        ContainerType="Outlined"
+                        UnfocusedColor="#2196F3"
+                        OutlineCornerRadius="5">
+                        <Entry FontSize="Medium" TextChanged="OtherBrandEntry_TextChanged"/>
+                    </inputLayout:SfTextInputLayout>-->
+                </StackLayout>
+
+                <inputLayout:SfTextInputLayout
+                    Grid.ColumnSpan="2" Grid.Row="1"
+                    Hint="Ball Model"
+                    FocusedColor="#2196F3" FocusedStrokeWidth="2"
+                    ContainerType="Outlined"
+                    UnfocusedColor="Black"
+                    OutlineCornerRadius="5">
+                    <Entry Text="{Binding Item.BallModel}" FontSize="Medium" IsReadOnly="True"/>
+                </inputLayout:SfTextInputLayout>
+
+                <inputLayout:SfTextInputLayout
+                    Grid.ColumnSpan="2" Grid.Row="2"
+                    Hint="Ball Serial Number"
+                    FocusedColor="#2196F3" FocusedStrokeWidth="2"
+                    ContainerType="Outlined"
+                    UnfocusedColor="Black"
+                    OutlineCornerRadius="5">
+                    <Entry Text="{Binding Item.BallSerialNumber}" FontSize="Medium" IsReadOnly="True"/>
+                </inputLayout:SfTextInputLayout>
+
+                <inputLayout:SfTextInputLayout
+                    Grid.ColumnSpan="2" Grid.Row="3"
+                    Hint="Ball Layout"
+                    FocusedColor="#2196F3" FocusedStrokeWidth="2"
+                    ContainerType="Outlined"
+                    UnfocusedColor="Black"
+                    OutlineCornerRadius="5">
+                    <Entry Text="{Binding Item.Layout}" FontSize="Medium" IsReadOnly="True"/>
+                </inputLayout:SfTextInputLayout>
+
+                <inputLayout:SfTextInputLayout
+                    x:Name="BallCoverLayout"
+                    Grid.ColumnSpan="2" Grid.Row="4"
+                    Hint="Ball Cover Type"
+                    FocusedColor="#2196F3" FocusedStrokeWidth="2"
+                    ContainerType="Outlined"
+                    UnfocusedColor="Black"
+                    OutlineCornerRadius="5">
+                    <Entry Text="{Binding Item.CoverType}" FontSize="Medium" IsReadOnly="True"/>
+                    <!--<Picker FontSize="Medium" SelectedIndexChanged="CoverPicker_SelectedIndexChanged">
+                        <Picker.ItemsSource>
+                            <x:Array Type="{x:Type x:String}">
+                                <x:String>Pearl</x:String>
+                                <x:String>Solid</x:String>
+                                <x:String>Hybrid</x:String>
+                                <x:String>Urethane</x:String>
+                                <x:String>Plastic</x:String>
+                                <x:String>Other</x:String>
+                            </x:Array>
+                        </Picker.ItemsSource>
+                    </Picker>-->
+                </inputLayout:SfTextInputLayout>
+
+                <StackLayout
+                    Grid.ColumnSpan="2" Grid.Row="5">
+                    <inputLayout:SfTextInputLayout
+                    x:Name="BallCoreLayout"
+                    Hint="Ball Core Type"
+                    FocusedColor="#2196F3" FocusedStrokeWidth="2"
+                    ContainerType="Outlined"
+                    UnfocusedColor="Black"
+                    OutlineCornerRadius="5">
+                        <Entry Text="{Binding Item.CoreType}" FontSize="Medium" IsReadOnly="True"/>
+                        <!--<Picker FontSize="Medium" SelectedIndexChanged="CorePicker_SelectedIndexChanged">
+                            <Picker.ItemsSource>
+                                <x:Array Type="{x:Type x:String}">
+                                    <x:String>Symmetrical</x:String>
+                                    <x:String>Asymmetrical</x:String>
+                                    <x:String>No Core</x:String>
+                                </x:Array>
+                            </Picker.ItemsSource>
+                        </Picker>-->
+                    </inputLayout:SfTextInputLayout>
+                    <inputLayout:SfTextInputLayout
+                        x:Name="RGLayout"
+                        IsVisible="{Binding ShowRG}"
+                        Margin="15,0,0,0"
+                        Hint="Cores RG"
+                        FocusedColor="#2196F3" FocusedStrokeWidth="2"
+                        ContainerType="Outlined"
+                        UnfocusedColor="#2196F3"
+                        OutlineCornerRadius="5">
+                        <Entry FontSize="Medium" Text="{Binding Item.CoreRG}" IsReadOnly="True"/>
+                    </inputLayout:SfTextInputLayout>
+                    <inputLayout:SfTextInputLayout
+                        x:Name="DiffLayout"
+                        IsVisible="{Binding ShowDiff}"
+                        Margin="15,0,0,0"
+                        Hint="Cores Diff"
+                        FocusedColor="#2196F3" FocusedStrokeWidth="2"
+                        ContainerType="Outlined"
+                        UnfocusedColor="#2196F3"
+                        OutlineCornerRadius="5">
+                        <Entry FontSize="Medium" Text="{Binding Item.CoreDiff}" IsReadOnly="True"/>
+                    </inputLayout:SfTextInputLayout>
+                    <inputLayout:SfTextInputLayout
+                        x:Name="IntDiffLayout"
+                        IsVisible="{Binding ShowIntDiff}"
+                        Margin="15,0,0,0"
+                        Hint="Cores Intermediate Diff"
+                        FocusedColor="#2196F3" FocusedStrokeWidth="2"
+                        ContainerType="Outlined"
+                        UnfocusedColor="#2196F3"
+                        OutlineCornerRadius="5">
+                        <Entry FontSize="Medium" Text="{Binding Item.CoreIntDiff}" IsReadOnly="True"/>
+                    </inputLayout:SfTextInputLayout>
+                </StackLayout>
+
+                <inputLayout:SfTextInputLayout
+                    x:Name="BallSurfaceLayout"
+                    Grid.ColumnSpan="2" Grid.Row="6"
+                    Hint="Ball Surface"
+                    FocusedColor="#2196F3" FocusedStrokeWidth="2"
+                    ContainerType="Outlined"
+                    UnfocusedColor="Black"
+                    OutlineCornerRadius="5">
+                    <Entry Text="{Binding Item.SurfaceFinish}" FontSize="Medium" IsReadOnly="True"/>
+                    <!--<Picker FontSize="Medium" SelectedIndexChanged="SurfacePicker_SelectedIndexChanged">
+                        <Picker.ItemsSource>
+                            <x:Array Type="{x:Type x:String}">
+                                <x:String>Polished</x:String>
+                                <x:String>5000</x:String>
+                                <x:String>4000</x:String>
+                                <x:String>3000</x:String>
+                                <x:String>2000</x:String>
+                                <x:String>1500</x:String>
+                                <x:String>1000</x:String>
+                                <x:String>500</x:String>
+                                <x:String>360</x:String>
+                                <x:String>240</x:String>
+                                <x:String>180</x:String>
+                            </x:Array>
+                        </Picker.ItemsSource>
+                    </Picker>-->
+                </inputLayout:SfTextInputLayout>
+
+                <inputLayout:SfTextInputLayout
+                    Grid.ColumnSpan="2" Grid.Row="7"
+                    Hint="Ball Hook Potential"
+                    FocusedColor="#2196F3" FocusedStrokeWidth="2"
+                    ContainerType="Outlined"
+                    UnfocusedColor="Black"
+                    HelperText="Rate from 1 (Lowest) to 10 (Highest)."
+                    OutlineCornerRadius="5">
+                    <Entry Text="{Binding Item.HookPotential}" FontSize="Medium" IsReadOnly="True"/>
+                </inputLayout:SfTextInputLayout>
+
+                <Label Text="Has ball been plugged?" Grid.Row="8" VerticalOptions="Center" FontSize="Medium"/>
+                <Switch IsToggled="{Binding Item.HasBeenPlugged}" Grid.Row="8" Grid.Column="1"  VerticalOptions="Center" InputTransparent="True"/>
+
+
+                <inputLayout:SfTextInputLayout
+                    Grid.ColumnSpan="2" Grid.Row="9"
+                    Hint="Notes"
+                    FocusedColor="#2196F3" FocusedStrokeWidth="2"
+                    ContainerType="Outlined"
+                    UnfocusedColor="Black"
+                    OutlineCornerRadius="5">
+                    <Editor Text="{Binding Item.Notes}" HeightRequest="150" FontSize="Medium" IsReadOnly="True"/>
+                </inputLayout:SfTextInputLayout>
+
+                <Grid Grid.Row="10" Grid.ColumnSpan="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="15"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <!--<RowDefinition Height="0.5*"/>-->
+                    </Grid.RowDefinitions>
+
+                    <Image x:Name="Image1" Source="{Binding Item.Image1}" BackgroundColor="Silver"
+                           Aspect="AspectFill" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_Image1"
+                                                  NumberOfTapsRequired="1"/>
+                        </Image.GestureRecognizers>
+                    </Image>
+                    <Image x:Name="Image2" Source="{Binding Item.Image2}" BackgroundColor="Silver" Grid.Column="2"
+                           Aspect="AspectFill" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_Image2"
+                                                  NumberOfTapsRequired="1"/>
+                        </Image.GestureRecognizers>
+                    </Image>
+                </Grid>
+
+                <!--Content View To view images full screen when they are tapped on-->
+                <ContentView
+                    x:Name="FullSizeImageView"
+                    IsVisible="False"
+                    Grid.ColumnSpan="2" Grid.RowSpan="11"
+                    BackgroundColor="Black">
+
+                    <Image x:Name="FullImage" Aspect="AspectFit" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_FullImage"
+                                                  NumberOfTapsRequired="1"/>
+                        </Image.GestureRecognizers>
+                    </Image>
+                </ContentView>
+
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>

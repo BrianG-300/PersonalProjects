@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArsenalAnalyzer.Views.ItemsPage"
+             Title="{Binding Title}"
+             x:Name="BrowseItemsPage"
+             Style="{StaticResource PageStyle}">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Clicked="AddItem_Clicked" />
+    </ContentPage.ToolbarItems>
+
+    <RefreshView IsRefreshing="{Binding IsBusy, Mode=TwoWay}" Command="{Binding LoadItemsCommand}">
+        <CollectionView x:Name="ItemsCollectionView" BackgroundColor="Transparent" 
+                ItemsSource="{Binding Items}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <SwipeView>
+                        <SwipeView.LeftItems>
+                            <SwipeItems>
+                                <SwipeItem Text="Delete" BackgroundColor="#2196F3" Invoked="DeleteItem_Clicked"/>
+                                <SwipeItem Text="Edit" BackgroundColor="Black" Invoked="EditItem_Clicked"/>
+                            </SwipeItems>
+                        </SwipeView.LeftItems>
+
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="{Binding Image1}" Aspect="AspectFill" HeightRequest="60" WidthRequest="60"/>
+                            <StackLayout Padding="10" Orientation="Vertical">
+                                <Label Text="{Binding BallBrand}" 
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="16" />
+                                <Label Text="{Binding BallModel}" 
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13" />
+                            </StackLayout>
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer NumberOfTapsRequired="1" Tapped="OnItemSelected"></TapGestureRecognizer>
+                            </StackLayout.GestureRecognizers>
+                        </StackLayout>
+
+                    </SwipeView>
+
+
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </RefreshView>
+</ContentPage>
