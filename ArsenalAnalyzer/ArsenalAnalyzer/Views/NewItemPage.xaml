@@ -3,8 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ArsenalAnalyzer.Views.NewItemPage"
              Title="New Item" Style="{StaticResource PageStyle}"
+             xmlns:local="clr-namespace:ArsenalAnalyzer"
              xmlns:inputLayout="clr-namespace:Syncfusion.XForms.TextInputLayout;assembly=Syncfusion.Core.XForms">
-
 
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Cancel" Clicked="Cancel_Clicked" />
@@ -25,7 +25,7 @@
                     <RowDefinition Height="0.5*"/>
                     <RowDefinition Height="0.5*"/>
                     <RowDefinition Height="1.5*"/>
-                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
                 </Grid.RowDefinitions>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="0.5*"/>
@@ -248,13 +248,15 @@
                         <RowDefinition Height="0.5*"/>
                     </Grid.RowDefinitions>
 
-                    <Image x:Name="Image1" BackgroundColor="Silver" Aspect="Fill" HeightRequest="100" WidthRequest="60">
+                    <Image x:Name="Image1" BackgroundColor="Silver" HeightRequest="180" WidthRequest="60"
+                           Source="{local:ImageResource ArsenalAnalyzer.Resources.Add.png}">
                         <Image.GestureRecognizers>
                             <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_Image1"
                                                   NumberOfTapsRequired="1"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Image x:Name="Image2" BackgroundColor="Silver" Grid.Column="2" Aspect="Fill" HeightRequest="100" WidthRequest="60">
+                    <Image x:Name="Image2" BackgroundColor="Silver" Grid.Column="2" HeightRequest="180" WidthRequest="60" Rotation="90"
+                           Source="{local:ImageResource ArsenalAnalyzer.Resources.Add.png}">
                         <Image.GestureRecognizers>
                             <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_Image2"
                                                   NumberOfTapsRequired="1"/>

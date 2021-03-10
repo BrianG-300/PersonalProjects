@@ -21,8 +21,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Resources\Add.png" />
+    <None Remove="Resources\playstoreicon.png" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\Add.png" />
+    <EmbeddedResource Include="Resources\playstoreicon.png" />
   </ItemGroup>
 </Project>

@@ -10,7 +10,7 @@ using Xamarin.Forms;
 
 namespace ArsenalAnalyzer.Droid
 {
-    [Activity(Label = "Arsenal Analyzer", Icon = "@mipmap/icon", Theme = "@style/MainTheme",
+    [Activity(Label = "Arsenal Analyzer", Icon = "@mipmap/ic_launcher", Theme = "@style/MainTheme",
         MainLauncher = false, ScreenOrientation = ScreenOrientation.Portrait )]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {

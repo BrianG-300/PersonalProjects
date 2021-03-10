@@ -17,7 +17,6 @@ namespace ArsenalAnalyzer.Views
         {
             InitializeComponent();
             Item = new Item();
-
             BindingContext = this;
         }
 
@@ -73,7 +72,6 @@ namespace ArsenalAnalyzer.Views
         void BrandPicker_SelectedIndexChanged(System.Object sender, System.EventArgs e)
         {
             var element = sender as Picker;
-            //Item.BallBrand = element.SelectedItem.ToString();
             if (element.SelectedItem.ToString() == "Other")
             {
                 OtherBrandEntryLayout.IsVisible = true;

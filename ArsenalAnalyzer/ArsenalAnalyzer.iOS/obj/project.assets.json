@@ -1610,11 +1610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/ArsenalAnalyzer.iOS.csproj",
+      "projectUniqueName": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/ArsenalAnalyzer.iOS.csproj",
       "projectName": "ArsenalAnalyzer.iOS",
-      "projectPath": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/ArsenalAnalyzer.iOS.csproj",
+      "projectPath": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/ArsenalAnalyzer.iOS.csproj",
       "packagesPath": "/Users/novarumdx/.nuget/packages/",
-      "outputPath": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/",
+      "outputPath": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1630,8 +1630,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj": {
-              "projectPath": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj"
+            "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj": {
+              "projectPath": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj"
             }
           }
         }

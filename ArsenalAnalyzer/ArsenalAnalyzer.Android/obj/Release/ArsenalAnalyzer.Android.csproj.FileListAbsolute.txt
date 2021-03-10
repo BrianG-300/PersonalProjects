@@ -494,3 +494,8 @@
 /Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Release/android/assets/SQLitePCLRaw.lib.e_sqlite3.android.dll
 /Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Release/android/assets/System.Buffers.dll
 /Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Release/android/assets/System.Runtime.CompilerServices.Unsafe.dll
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Release/MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Release/build.props
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Release/adb.props
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Release/ArsenalAnalyzer.Android.csprojAssemblyReference.cache
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Release/stamp/_BuildLibraryImportsCache.stamp

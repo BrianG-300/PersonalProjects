@@ -2,21 +2,31 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ArsenalAnalyzer.Views.MenuPage"
+             xmlns:local="clr-namespace:ArsenalAnalyzer"
              Title="Menu" Style="{StaticResource PageStyle}">
              
-    <StackLayout VerticalOptions="FillAndExpand">
-        <ListView x:Name="ListViewMenu"
-                    HasUnevenRows="True">
+    <StackLayout VerticalOptions="FillAndExpand" Orientation="Vertical">
+        <StackLayout Orientation="Horizontal" Margin="10,10,0,0">
+            <Image x:Name="LogoBehindList" Aspect="AspectFit" HeightRequest="80" WidthRequest="80"
+                   Source="{local:ImageResource ArsenalAnalyzer.Resources.playstoreicon.png}"/>
+            <Label Text="Arsenal Analyzer" FontAttributes="Bold" FontSize="Large" VerticalOptions="Center"/>
+        </StackLayout>
+
+        <BoxView BackgroundColor="#2196F3" HeightRequest="1.5" Margin="5,0,5,0"/>
+
+        <ListView x:Name="ListViewMenu" HasUnevenRows="True" >
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
                         <Grid Padding="10">
-                            <Label Text="{Binding Title}" FontSize="20"/>
+                            <Label Text="{Binding Title}" FontSize="20" TextColor="Black"/>
                         </Grid>
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-    </StackLayout>
+        <BoxView BackgroundColor="#2196F3" HeightRequest="1.5" Margin="5,0,5,0"/>
 
+        <Label x:Name="VersionLabel" FontSize="Small" HorizontalOptions="Center"/>
+    </StackLayout>
 </ContentPage>

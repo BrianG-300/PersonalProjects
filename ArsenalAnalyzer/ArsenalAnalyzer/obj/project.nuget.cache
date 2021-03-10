@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pi1/1a9gwRJ/lncrJVOmZ2oZdX2oHNpotwgyF3VXue7R4X+ZLh3msYFaalyYRBnROKRzSC6Q6SK3Iz3Ne9Ovhw==",
+  "dgSpecHash": "KI60YWFaTtQIuuCN/9/brHzbC7SwbLZRRbRzPnxAgNJzjJGDD/F5UEVGcbaAigBwzbMdxRSHSnMVjXdj8lcfzw==",
   "success": true,
-  "projectFilePath": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj",
+  "projectFilePath": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj",
   "expectedPackageFiles": [
     "/Users/novarumdx/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

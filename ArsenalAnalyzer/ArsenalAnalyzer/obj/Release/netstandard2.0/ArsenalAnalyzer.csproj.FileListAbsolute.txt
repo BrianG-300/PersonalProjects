@@ -18,3 +18,22 @@
 /Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/ref/ArsenalAnalyzer.dll
 /Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/ArsenalAnalyzer.pdb
 /Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/ArsenalAnalyzer.csprojAssemblyReference.cache
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/bin/Release/netstandard2.0/ArsenalAnalyzer.deps.json
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/bin/Release/netstandard2.0/ArsenalAnalyzer.dll
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/bin/Release/netstandard2.0/ref/ArsenalAnalyzer.dll
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/bin/Release/netstandard2.0/ArsenalAnalyzer.pdb
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/App.xaml.g.cs
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/Views/EditDetailPage.xaml.g.cs
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/Views/ItemsPage.xaml.g.cs
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/Views/MainPage.xaml.g.cs
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/Views/MenuPage.xaml.g.cs
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/Views/NewItemPage.xaml.g.cs
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/ArsenalAnalyzer.AssemblyInfoInputs.cache
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/ArsenalAnalyzer.AssemblyInfo.cs
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/ArsenalAnalyzer.csproj.CoreCompileInputs.cache
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/XamlC.stamp
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/ArsenalAnalyzer.dll
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/ref/ArsenalAnalyzer.dll
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/Release/netstandard2.0/ArsenalAnalyzer.pdb

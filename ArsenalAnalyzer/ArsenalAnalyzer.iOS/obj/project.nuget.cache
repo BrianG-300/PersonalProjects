@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AoZX4gFcpb4rMwawk41fgH9pLB7d09X9SZ6JyyixsC6mG1bgdEpPh1k8QRPLf4wW0d7/K7pGmZ3aJXpvCXi4zQ==",
+  "dgSpecHash": "1GMz08R8ooPX1p1l1A7q5oWN0dPOcg67NkFP80kA2Po6+0NXaTmpjVGH2fiLoElyszXyIYvD4+FPhH4SIufdaQ==",
   "success": true,
-  "projectFilePath": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/ArsenalAnalyzer.iOS.csproj",
+  "projectFilePath": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/ArsenalAnalyzer.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/novarumdx/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
     "/Users/novarumdx/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",

@@ -10,8 +10,8 @@
     <package android:name="Mono.Android.DebugRuntime" />
     <package android:name="Mono.Android.Platform.ApiLevel_30" />
   </queries>
-  <application android:name="android.app.Application" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/icon" android:label="ArsenalAnalyzer.Android" android:theme="@style/MainTheme">
-    <activity android:name="crc64ff4f5523af079ae2.MainActivity" android:icon="@mipmap/icon" android:label="Arsenal Analyzer" android:screenOrientation="portrait" android:theme="@style/MainTheme" />
+  <application android:name="android.app.Application" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/ic_launcher" android:label="Arsenal Analyzer" android:theme="@style/MainTheme">
+    <activity android:name="crc64ff4f5523af079ae2.MainActivity" android:icon="@mipmap/ic_launcher" android:label="Arsenal Analyzer" android:screenOrientation="portrait" android:theme="@style/MainTheme" />
     <activity android:name="crc64ff4f5523af079ae2.SplashActivity" android:configChanges="uiMode" android:label="Arsenal Analyzer" android:screenOrientation="portrait" android:theme="@style/MainTheme.Splash">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

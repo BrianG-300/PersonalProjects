@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/ArsenalAnalyzer.Android.csproj": {}
+    "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/ArsenalAnalyzer.Android.csproj": {}
   },
   "projects": {
-    "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/ArsenalAnalyzer.Android.csproj": {
+    "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/ArsenalAnalyzer.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/ArsenalAnalyzer.Android.csproj",
+        "projectUniqueName": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/ArsenalAnalyzer.Android.csproj",
         "projectName": "ArsenalAnalyzer.Android",
-        "projectPath": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/ArsenalAnalyzer.Android.csproj",
+        "projectPath": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/ArsenalAnalyzer.Android.csproj",
         "packagesPath": "/Users/novarumdx/.nuget/packages/",
-        "outputPath": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/",
+        "outputPath": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj": {
-                "projectPath": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj"
+              "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj": {
+                "projectPath": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj"
               }
             }
           }
@@ -57,14 +57,14 @@
         }
       }
     },
-    "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj": {
+    "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj",
+        "projectUniqueName": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj",
         "projectName": "ArsenalAnalyzer",
-        "projectPath": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj",
+        "projectPath": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj",
         "packagesPath": "/Users/novarumdx/.nuget/packages/",
-        "outputPath": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/obj/",
+        "outputPath": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

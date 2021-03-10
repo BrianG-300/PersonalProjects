@@ -1,4 +1,4 @@
-/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/bin/iPhoneSimulator/Release/ArsenalAnalyzer.iOS.exe
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/bin/iPhoneSimulator/Release/ArsenalAnalyzer.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.8.0.3/lib/mono/Xamarin.iOS/mscorlib.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.8.0.3/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.8.0.3/lib/mono/Xamarin.iOS/System.dll
@@ -41,7 +41,7 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.8.0.3/lib/mono/Xamarin.iOS/Facades/System.Reflection.Extensions.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.8.0.3/lib/mono/Xamarin.iOS/Facades/System.Text.Encoding.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.8.0.3/lib/mono/Xamarin.iOS/Facades/System.Threading.dll
-/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/bin/Release/netstandard2.0/ArsenalAnalyzer.dll
+/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/bin/Release/netstandard2.0/ArsenalAnalyzer.dll
 /Users/novarumdx/.nuget/packages/xamarin.essentials/1.6.1/lib/xamarinios10/Xamarin.Essentials.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.8.0.3/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
 /Users/novarumdx/.nuget/packages/sqlite-net-pcl/1.7.335/lib/netstandard2.0/SQLite-net.dll

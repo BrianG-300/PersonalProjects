@@ -6,25 +6,25 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon20x20@2x.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon20x20@2x~ipad.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon20x20@3x.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon20x20~ipad.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon29x29@2x.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon29x29@2x~ipad.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon29x29@3x.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon29x29~ipad.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon40x40@2x.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon40x40@2x~ipad.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon40x40@3x.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon40x40~ipad.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon60x60@2x.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon60x60@3x.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon76x76@2x~ipad.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon76x76~ipad.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon83.5x83.5@2x~ipad.png</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/Assets.car</string>
-			<string>/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/partial-info.plist</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon20x20@2x.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon20x20@2x~ipad.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon20x20@3x.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon20x20~ipad.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon29x29@2x.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon29x29@2x~ipad.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon29x29@3x.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon29x29~ipad.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon40x40@2x.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon40x40@2x~ipad.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon40x40@3x.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon40x40~ipad.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon60x60@2x.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon60x60@3x.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon76x76@2x~ipad.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon76x76~ipad.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon83.5x83.5@2x~ipad.png</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/bundle/Assets.car</string>
+			<string>/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.iOS/obj/iPhoneSimulator/Release/actool/partial-info.plist</string>
 		</array>
 	</dict>
 </dict>

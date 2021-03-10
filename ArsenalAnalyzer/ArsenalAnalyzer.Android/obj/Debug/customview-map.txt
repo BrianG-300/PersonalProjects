@@ -1,54 +1,54 @@
-@string/appbar_scrolling_view_behavior;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/rootlayout.xml
+@string/appbar_scrolling_view_behavior;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/rootlayout.xml
 adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon.xml
 adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
-alpha;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/enterfromleft.xml
-alpha;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/exittoleft.xml
+alpha;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/enterfromleft.xml
+alpha;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/exittoleft.xml
 android.support.design.widget.TabLayout;obj/Debug/res/layout/tabbar.xml
 android.support.v7.widget.Toolbar;obj/Debug/res/layout/toolbar.xml
-androidx.appcompat.widget.Toolbar;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/fallbacktoolbardonotuse.xml
-androidx.appcompat.widget.Toolbar;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/rootlayout.xml
-androidx.appcompat.widget.Toolbar;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/shellcontent.xml
-androidx.appcompat.widget.Toolbar;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/toolbar.xml
-androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/rootlayout.xml
-androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/shellcontent.xml
-attr;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/attrs.xml
+androidx.appcompat.widget.Toolbar;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/rootlayout.xml
+androidx.appcompat.widget.Toolbar;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/shellcontent.xml
+androidx.appcompat.widget.Toolbar;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/shellcontent.xml
+attr;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/attrs.xml
 background;obj/Debug/res/mipmap-anydpi-v26/icon.xml
 background;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
-cache-path;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/46/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+cache-path;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/46/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
 color;obj/Debug/res/values/colors.xml
 color;obj/Debug/res/values/styles.xml
-com.google.android.material.appbar.AppBarLayout;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/flyoutcontent.xml
-com.google.android.material.appbar.AppBarLayout;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/rootlayout.xml
-com.google.android.material.appbar.AppBarLayout;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/shellcontent.xml
-com.google.android.material.bottomnavigation.BottomNavigationView;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/bottomtablayout.xml
-com.google.android.material.tabs.TabLayout;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/fallbacktabbardonotuse.xml
-com.google.android.material.tabs.TabLayout;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/rootlayout.xml
-com.google.android.material.tabs.TabLayout;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/tabbar.xml
-declare-styleable;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/attrs.xml
-external-cache-path;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/46/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
-external-path;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/46/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+com.google.android.material.appbar.AppBarLayout;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/rootlayout.xml
+com.google.android.material.tabs.TabLayout;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/tabbar.xml
+declare-styleable;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/attrs.xml
+external-cache-path;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/46/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+external-path;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/46/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj/Debug/res/mipmap-anydpi-v26/icon.xml
 foreground;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
-FrameLayout;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/bottomtablayout.xml
-item;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/styles.xml
+FrameLayout;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/bottomtablayout.xml
+item;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/styles.xml
 item;obj/Debug/res/values/styles.xml
-LinearLayout;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/bottomtablayout.xml
-paths;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/46/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
-resources;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/attrs.xml
-resources;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/strings.xml
-resources;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/styles.xml
+LinearLayout;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/bottomtablayout.xml
+paths;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/46/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+resources;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/attrs.xml
+resources;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/strings.xml
+resources;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/styles.xml
 resources;obj/Debug/res/values/colors.xml
 resources;obj/Debug/res/values/styles.xml
-set;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/enterfromleft.xml
-set;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/enterfromright.xml
-set;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/exittoleft.xml
-set;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/exittoright.xml
-string;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/strings.xml
-style;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/styles.xml
+set;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/enterfromleft.xml
+set;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/enterfromright.xml
+set;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/exittoleft.xml
+set;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/exittoright.xml
+string;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/strings.xml
+style;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/values/styles.xml
 style;obj/Debug/res/values/styles.xml
-translate;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/enterfromleft.xml
-translate;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/enterfromright.xml
-translate;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/exittoleft.xml
-translate;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/exittoright.xml
-xamarin.forms.platform.android.appcompat.FormsViewPager;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/rootlayout.xml
-xamarin.forms.platform.android.ShellFlyoutLayout;/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/flyoutcontent.xml
+translate;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/enterfromleft.xml
+translate;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/enterfromright.xml
+translate;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/exittoleft.xml
+translate;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/anim/exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/obj/Debug/lp/47/jl/res/layout/flyoutcontent.xml

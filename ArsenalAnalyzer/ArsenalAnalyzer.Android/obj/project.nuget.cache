@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ek75k9qc3x27+6gp78LwP1EKVIf6Sd67gUt28vgYgrN4EHim8UBswYotCtj+EKh/BaJIAC4vX2SHq5/WdcSrZw==",
+  "dgSpecHash": "f9FUreEpPOpFPscqjvp/ZdsWvuwNB4Nij8clr7E0pOrybYTx4djrebXhw6GezFAn6XZu/hhGuoBi79h4pH/W7A==",
   "success": true,
-  "projectFilePath": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer.Android/ArsenalAnalyzer.Android.csproj",
+  "projectFilePath": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer.Android/ArsenalAnalyzer.Android.csproj",
   "expectedPackageFiles": [
     "/Users/novarumdx/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
     "/Users/novarumdx/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",

@@ -918,11 +918,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj",
+      "projectUniqueName": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj",
       "projectName": "ArsenalAnalyzer",
-      "projectPath": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj",
+      "projectPath": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/ArsenalAnalyzer.csproj",
       "packagesPath": "/Users/novarumdx/.nuget/packages/",
-      "outputPath": "/Users/novarumdx/Desktop/ArsenalAnalyzer/ArsenalAnalyzer/obj/",
+      "outputPath": "/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
