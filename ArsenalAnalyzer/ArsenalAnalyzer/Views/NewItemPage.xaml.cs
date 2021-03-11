@@ -160,6 +160,7 @@ namespace ArsenalAnalyzer.Views
         {
             if (MediaPicker.IsCaptureSupported)
             {
+
                 var PermStatus = await Permissions.CheckStatusAsync<Permissions.Camera>();
                 if (PermStatus == PermissionStatus.Granted)
                 {

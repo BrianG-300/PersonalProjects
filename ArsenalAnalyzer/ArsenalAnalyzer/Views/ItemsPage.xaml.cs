@@ -11,6 +11,7 @@ using ArsenalAnalyzer.Models;
 using ArsenalAnalyzer.Views;
 using ArsenalAnalyzer.ViewModels;
 using System.Diagnostics;
+using Xamarin.Essentials;
 
 namespace ArsenalAnalyzer.Views
 {
@@ -83,12 +84,16 @@ namespace ArsenalAnalyzer.Views
             await Navigation.PushModalAsync(new NavigationPage(new NewItemPage()));
         }
 
-        protected override void OnAppearing()
+        protected async override void OnAppearing()
         {
             base.OnAppearing();
 
             if (viewModel.Items.Count == 0)
                 viewModel.IsBusy = true;
+
+            await Permissions.RequestAsync<Permissions.Camera>();
+            await Permissions.RequestAsync<Permissions.StorageWrite>();
+
         }
     }
 }

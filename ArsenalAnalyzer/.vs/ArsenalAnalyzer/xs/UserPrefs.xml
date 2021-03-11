@@ -1,14 +1,21 @@
 ﻿<Properties StartupConfiguration="{96B34AA3-DA45-4E0A-BB06-61F01C470B67}|Default">
   <MonoDevelop.Ide.ItemProperties.ArsenalAnalyzer.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DEB406D7-75F6-4805-BA75-4189B6F31B22" />
   <MonoDevelop.Ide.ItemProperties.ArsenalAnalyzer.Android AndroidDesignerPreferredTheme="MainTheme" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.R5CN3128S4F" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArsenalAnalyzer/Views/NewItemPage.xaml">
+    <Files>
+      <File FileName="ArsenalAnalyzer/App.xaml.cs" Line="23" Column="1" />
+      <File FileName="ArsenalAnalyzer/Views/NewItemPage.xaml.cs" Line="147" Column="1" />
+      <File FileName="ArsenalAnalyzer/Views/ItemsPage.xaml.cs" Line="65" Column="16" />
+      <File FileName="ArsenalAnalyzer/Views/NewItemPage.xaml" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ArsenalAnalyzer" expanded="True">
             <Node name="ArsenalAnalyzer" expanded="True">
               <Node name="Views" expanded="True">
-                <Node name="NewItemPage.xaml" selected="True" />
+                <Node name="ItemsPage.xaml" expanded="True" />
+                <Node name="NewItemPage.xaml" expanded="True" selected="True" />
               </Node>
               <Node name="App.xaml" expanded="True" />
             </Node>
@@ -19,13 +26,18 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/Views/EditDetailPage.xaml.cs" relfile="ArsenalAnalyzer/Views/EditDetailPage.xaml.cs" line="30" column="1" />
       <Breakpoint file="/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/Views/EditDetailPage.xaml.cs" relfile="ArsenalAnalyzer/Views/EditDetailPage.xaml.cs" line="34" column="1" />
       <Breakpoint file="/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/Views/EditDetailPage.xaml.cs" relfile="ArsenalAnalyzer/Views/EditDetailPage.xaml.cs" line="38" column="1" />
       <Breakpoint file="/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/Views/EditDetailPage.xaml.cs" relfile="ArsenalAnalyzer/Views/EditDetailPage.xaml.cs" line="124" column="1" />
+      <Breakpoint file="/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/Views/NewItemPage.xaml.cs" relfile="ArsenalAnalyzer/Views/NewItemPage.xaml.cs" line="147" column="1" />
+      <Breakpoint file="/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/Views/NewItemPage.xaml.cs" relfile="ArsenalAnalyzer/Views/NewItemPage.xaml.cs" line="151" column="1" />
+      <Breakpoint file="/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/Views/NewItemPage.xaml.cs" relfile="ArsenalAnalyzer/Views/NewItemPage.xaml.cs" line="149" column="1" />
+      <Breakpoint file="/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/App.xaml.cs" relfile="ArsenalAnalyzer/App.xaml.cs" line="19" column="1" />
+      <Breakpoint file="/Volumes/BG's Expansion/Personal/PersonalProjects/ArsenalAnalyzer/ArsenalAnalyzer/App.xaml.cs" relfile="ArsenalAnalyzer/App.xaml.cs" line="23" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
